@@ -1,2 +1,2 @@
-# android-ui-kit
-자주 사용되는 UI 컴포넌트 모음
+# android-test
+android 동작 테스트 용 프로젝트
